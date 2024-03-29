@@ -1,0 +1,24 @@
+{
+  "originHash" : "d9a7a4d514d25d2f1717c007543b2737629610c877bc838e98a1e8a19e535b04",
+  "pins" : [
+    {
+      "identity" : "playing-card-view-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:nashysolutions/playing-card-view-kit.git",
+      "state" : {
+        "revision" : "042ea826a9f3fdfabfc58fb51703da3d6ffd8e77",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "playing-cards",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:nashysolutions/playing-cards.git",
+      "state" : {
+        "revision" : "2a8367ce27d8a9b2cbde2f1e1285cca6a4fb1eaf",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
